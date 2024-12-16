@@ -1,0 +1,19 @@
+langchain-ollama
+langchain-text-splitters
+langchain-community
+langchain-openai
+langchain-core
+bs4
+agentql
+chromium
+sqlalchemy
+psycopg2
+# torch
+# torchvision 
+# torchaudio
+transformers
+langgraph
+ultralytics 
+opencv-python-headless
+matplotlib
+google.generativeai
